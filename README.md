@@ -3,8 +3,8 @@ Telemetry of Electron's Flight 13 using OCR with Tesseract in Python. Tesseract 
 
 Anyways, here are some pretty graphs:
 
-##Acceleration-time:
+## Acceleration-time:
 ![Acceleration-time graph](/graphs/acceleration-time.png "Acceleration-time graph")
 
-##Trajectory:
+## Trajectory:
 ![Trajectory graph](/graphs/trajectory.png "trajectory.png")
